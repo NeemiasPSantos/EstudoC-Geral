@@ -1,0 +1,16 @@
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.exe
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.runtimeconfig.dev.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ref\ExercicioContaBanco.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ref\ExercicioContaBanco.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.genruntimeconfig.cache

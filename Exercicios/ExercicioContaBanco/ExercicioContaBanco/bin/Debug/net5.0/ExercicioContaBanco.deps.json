@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExercicioContaBanco/1.0.0": {
+        "runtime": {
+          "ExercicioContaBanco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioContaBanco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

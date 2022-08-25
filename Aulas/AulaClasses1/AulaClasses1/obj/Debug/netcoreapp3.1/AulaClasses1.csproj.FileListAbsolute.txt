@@ -1,0 +1,14 @@
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\bin\Debug\netcoreapp3.1\AulaClasses1.exe
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\bin\Debug\netcoreapp3.1\AulaClasses1.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\bin\Debug\netcoreapp3.1\AulaClasses1.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\bin\Debug\netcoreapp3.1\AulaClasses1.runtimeconfig.dev.json
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\bin\Debug\netcoreapp3.1\AulaClasses1.dll
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\bin\Debug\netcoreapp3.1\AulaClasses1.pdb
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\obj\Debug\netcoreapp3.1\AulaClasses1.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\obj\Debug\netcoreapp3.1\AulaClasses1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\obj\Debug\netcoreapp3.1\AulaClasses1.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\obj\Debug\netcoreapp3.1\AulaClasses1.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\obj\Debug\netcoreapp3.1\AulaClasses1.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\obj\Debug\netcoreapp3.1\AulaClasses1.dll
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\obj\Debug\netcoreapp3.1\AulaClasses1.pdb
+C:\Users\Neemi\Desktop\Programação\C#\AulaClasses1\AulaClasses1\obj\Debug\netcoreapp3.1\AulaClasses1.genruntimeconfig.cache

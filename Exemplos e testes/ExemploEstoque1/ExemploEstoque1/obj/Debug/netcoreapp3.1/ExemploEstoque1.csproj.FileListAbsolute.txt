@@ -1,0 +1,14 @@
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\bin\Debug\netcoreapp3.1\ExemploEstoque1.exe
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\bin\Debug\netcoreapp3.1\ExemploEstoque1.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\bin\Debug\netcoreapp3.1\ExemploEstoque1.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\bin\Debug\netcoreapp3.1\ExemploEstoque1.runtimeconfig.dev.json
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\bin\Debug\netcoreapp3.1\ExemploEstoque1.dll
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\bin\Debug\netcoreapp3.1\ExemploEstoque1.pdb
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\obj\Debug\netcoreapp3.1\ExemploEstoque1.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\obj\Debug\netcoreapp3.1\ExemploEstoque1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\obj\Debug\netcoreapp3.1\ExemploEstoque1.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\obj\Debug\netcoreapp3.1\ExemploEstoque1.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\obj\Debug\netcoreapp3.1\ExemploEstoque1.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\obj\Debug\netcoreapp3.1\ExemploEstoque1.dll
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\obj\Debug\netcoreapp3.1\ExemploEstoque1.pdb
+C:\Users\Neemi\Desktop\Programação\C#\ExemploEstoque1\ExemploEstoque1\obj\Debug\netcoreapp3.1\ExemploEstoque1.genruntimeconfig.cache

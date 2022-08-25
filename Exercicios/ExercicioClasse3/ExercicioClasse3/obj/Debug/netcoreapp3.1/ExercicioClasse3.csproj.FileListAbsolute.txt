@@ -1,0 +1,14 @@
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\bin\Debug\netcoreapp3.1\ExercicioClasse3.exe
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\bin\Debug\netcoreapp3.1\ExercicioClasse3.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\bin\Debug\netcoreapp3.1\ExercicioClasse3.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\bin\Debug\netcoreapp3.1\ExercicioClasse3.runtimeconfig.dev.json
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\bin\Debug\netcoreapp3.1\ExercicioClasse3.dll
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\bin\Debug\netcoreapp3.1\ExercicioClasse3.pdb
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\obj\Debug\netcoreapp3.1\ExercicioClasse3.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\obj\Debug\netcoreapp3.1\ExercicioClasse3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\obj\Debug\netcoreapp3.1\ExercicioClasse3.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\obj\Debug\netcoreapp3.1\ExercicioClasse3.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\obj\Debug\netcoreapp3.1\ExercicioClasse3.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\obj\Debug\netcoreapp3.1\ExercicioClasse3.dll
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\obj\Debug\netcoreapp3.1\ExercicioClasse3.pdb
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioClasse3\ExercicioClasse3\obj\Debug\netcoreapp3.1\ExercicioClasse3.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\bin\Debug\net6.0\ExerResolHerPol.exe
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\bin\Debug\net6.0\ExerResolHerPol.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\bin\Debug\net6.0\ExerResolHerPol.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\bin\Debug\net6.0\ExerResolHerPol.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\bin\Debug\net6.0\ExerResolHerPol.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\obj\Debug\net6.0\ExerResolHerPol.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\obj\Debug\net6.0\ExerResolHerPol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\obj\Debug\net6.0\ExerResolHerPol.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\obj\Debug\net6.0\ExerResolHerPol.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\obj\Debug\net6.0\ExerResolHerPol.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\obj\Debug\net6.0\ExerResolHerPol.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\obj\Debug\net6.0\refint\ExerResolHerPol.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\obj\Debug\net6.0\ExerResolHerPol.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\obj\Debug\net6.0\ExerResolHerPol.genruntimeconfig.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\ExerResolHerPol\ExerResolHerPol\obj\Debug\net6.0\ref\ExerResolHerPol.dll

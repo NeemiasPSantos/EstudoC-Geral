@@ -1,0 +1,15 @@
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\net6.0\ExercicioMatriz1.exe
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\net6.0\ExercicioMatriz1.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\net6.0\ExercicioMatriz1.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\net6.0\ExercicioMatriz1.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\bin\Debug\net6.0\ExercicioMatriz1.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net6.0\ExercicioMatriz1.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net6.0\ExercicioMatriz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net6.0\ExercicioMatriz1.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net6.0\ExercicioMatriz1.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net6.0\ExercicioMatriz1.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net6.0\ExercicioMatriz1.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net6.0\refint\ExercicioMatriz1.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net6.0\ExercicioMatriz1.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net6.0\ExercicioMatriz1.genruntimeconfig.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioMatriz1\ExercicioMatriz1\obj\Debug\net6.0\ref\ExercicioMatriz1.dll

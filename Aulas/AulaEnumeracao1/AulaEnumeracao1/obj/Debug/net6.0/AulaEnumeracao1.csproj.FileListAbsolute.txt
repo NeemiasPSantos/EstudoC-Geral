@@ -1,0 +1,15 @@
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\bin\Debug\net6.0\AulaEnumeracao1.exe
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\bin\Debug\net6.0\AulaEnumeracao1.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\bin\Debug\net6.0\AulaEnumeracao1.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\bin\Debug\net6.0\AulaEnumeracao1.dll
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\bin\Debug\net6.0\AulaEnumeracao1.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\obj\Debug\net6.0\AulaEnumeracao1.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\obj\Debug\net6.0\AulaEnumeracao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\obj\Debug\net6.0\AulaEnumeracao1.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\obj\Debug\net6.0\AulaEnumeracao1.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\obj\Debug\net6.0\AulaEnumeracao1.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\obj\Debug\net6.0\AulaEnumeracao1.dll
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\obj\Debug\net6.0\refint\AulaEnumeracao1.dll
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\obj\Debug\net6.0\AulaEnumeracao1.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\obj\Debug\net6.0\AulaEnumeracao1.genruntimeconfig.cache
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaEnumeracao1\AulaEnumeracao1\obj\Debug\net6.0\ref\AulaEnumeracao1.dll

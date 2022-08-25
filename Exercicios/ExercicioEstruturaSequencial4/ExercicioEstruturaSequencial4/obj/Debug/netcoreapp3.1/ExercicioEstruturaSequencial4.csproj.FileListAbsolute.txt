@@ -1,0 +1,14 @@
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\bin\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.exe
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\bin\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\bin\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\bin\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.runtimeconfig.dev.json
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\bin\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.dll
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\bin\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.pdb
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\obj\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\obj\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\obj\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\obj\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\obj\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\obj\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.dll
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\obj\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.pdb
+C:\Users\Neemi\Desktop\Programação\C#\ExercicioEstruturaSequencial4\ExercicioEstruturaSequencial4\obj\Debug\netcoreapp3.1\ExercicioEstruturaSequencial4.genruntimeconfig.cache

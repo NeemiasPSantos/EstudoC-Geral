@@ -1,0 +1,15 @@
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\bin\Debug\net6.0\Testelista2.exe
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\bin\Debug\net6.0\Testelista2.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\bin\Debug\net6.0\Testelista2.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\bin\Debug\net6.0\Testelista2.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\bin\Debug\net6.0\Testelista2.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\obj\Debug\net6.0\Testelista2.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\obj\Debug\net6.0\Testelista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\obj\Debug\net6.0\Testelista2.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\obj\Debug\net6.0\Testelista2.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\obj\Debug\net6.0\Testelista2.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\obj\Debug\net6.0\Testelista2.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\obj\Debug\net6.0\refint\Testelista2.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\obj\Debug\net6.0\Testelista2.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\obj\Debug\net6.0\Testelista2.genruntimeconfig.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\Testelista2\Testelista2\obj\Debug\net6.0\ref\Testelista2.dll

@@ -1,0 +1,14 @@
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.exe
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.runtimeconfig.dev.json
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.dll
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\bin\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.pdb
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.dll
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.pdb
+C:\Users\Neemi\Desktop\Programação\C#\ExerciciosEstruturaSequencial5\ExerciciosEstruturaSequencial5\obj\Debug\netcoreapp3.1\ExerciciosEstruturaSequencial5.genruntimeconfig.cache

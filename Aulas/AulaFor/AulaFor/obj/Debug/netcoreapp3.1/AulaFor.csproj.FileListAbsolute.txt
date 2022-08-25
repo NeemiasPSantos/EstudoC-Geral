@@ -1,0 +1,14 @@
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\bin\Debug\netcoreapp3.1\AulaFor.exe
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\bin\Debug\netcoreapp3.1\AulaFor.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\bin\Debug\netcoreapp3.1\AulaFor.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\bin\Debug\netcoreapp3.1\AulaFor.runtimeconfig.dev.json
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\bin\Debug\netcoreapp3.1\AulaFor.dll
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\bin\Debug\netcoreapp3.1\AulaFor.pdb
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\obj\Debug\netcoreapp3.1\AulaFor.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\obj\Debug\netcoreapp3.1\AulaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\obj\Debug\netcoreapp3.1\AulaFor.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\obj\Debug\netcoreapp3.1\AulaFor.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\obj\Debug\netcoreapp3.1\AulaFor.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\obj\Debug\netcoreapp3.1\AulaFor.dll
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\obj\Debug\netcoreapp3.1\AulaFor.pdb
+C:\Users\Neemi\Desktop\Programação\C#\AulaFor\AulaFor\obj\Debug\netcoreapp3.1\AulaFor.genruntimeconfig.cache

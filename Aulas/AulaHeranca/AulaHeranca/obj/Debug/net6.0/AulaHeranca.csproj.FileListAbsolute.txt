@@ -1,0 +1,15 @@
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\bin\Debug\net6.0\AulaHeranca.exe
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\bin\Debug\net6.0\AulaHeranca.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\bin\Debug\net6.0\AulaHeranca.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\bin\Debug\net6.0\AulaHeranca.dll
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\bin\Debug\net6.0\AulaHeranca.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\obj\Debug\net6.0\AulaHeranca.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\obj\Debug\net6.0\AulaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\obj\Debug\net6.0\AulaHeranca.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\obj\Debug\net6.0\AulaHeranca.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\obj\Debug\net6.0\AulaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\obj\Debug\net6.0\AulaHeranca.dll
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\obj\Debug\net6.0\refint\AulaHeranca.dll
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\obj\Debug\net6.0\AulaHeranca.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\obj\Debug\net6.0\AulaHeranca.genruntimeconfig.cache
+C:\Users\Neemi\Desktop\Programação\C#\Aulas\AulaHeranca\AulaHeranca\obj\Debug\net6.0\ref\AulaHeranca.dll

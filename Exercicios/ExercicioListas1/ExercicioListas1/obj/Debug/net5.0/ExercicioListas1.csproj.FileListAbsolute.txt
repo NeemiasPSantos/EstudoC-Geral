@@ -1,0 +1,16 @@
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\bin\Debug\net5.0\ExercicioListas1.exe
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\bin\Debug\net5.0\ExercicioListas1.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\bin\Debug\net5.0\ExercicioListas1.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\bin\Debug\net5.0\ExercicioListas1.runtimeconfig.dev.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\bin\Debug\net5.0\ExercicioListas1.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\bin\Debug\net5.0\ref\ExercicioListas1.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\bin\Debug\net5.0\ExercicioListas1.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\obj\Debug\net5.0\ExercicioListas1.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\obj\Debug\net5.0\ExercicioListas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\obj\Debug\net5.0\ExercicioListas1.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\obj\Debug\net5.0\ExercicioListas1.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\obj\Debug\net5.0\ExercicioListas1.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\obj\Debug\net5.0\ExercicioListas1.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\obj\Debug\net5.0\ref\ExercicioListas1.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\obj\Debug\net5.0\ExercicioListas1.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExercicioListas1\ExercicioListas1\obj\Debug\net5.0\ExercicioListas1.genruntimeconfig.cache

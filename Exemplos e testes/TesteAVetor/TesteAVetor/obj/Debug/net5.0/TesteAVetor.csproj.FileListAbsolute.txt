@@ -1,0 +1,16 @@
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\bin\Debug\net5.0\TesteAVetor.exe
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\bin\Debug\net5.0\TesteAVetor.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\bin\Debug\net5.0\TesteAVetor.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\bin\Debug\net5.0\TesteAVetor.runtimeconfig.dev.json
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\bin\Debug\net5.0\TesteAVetor.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\bin\Debug\net5.0\ref\TesteAVetor.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\bin\Debug\net5.0\TesteAVetor.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\obj\Debug\net5.0\TesteAVetor.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\obj\Debug\net5.0\TesteAVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\obj\Debug\net5.0\TesteAVetor.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\obj\Debug\net5.0\TesteAVetor.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\obj\Debug\net5.0\TesteAVetor.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\obj\Debug\net5.0\TesteAVetor.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\obj\Debug\net5.0\ref\TesteAVetor.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\obj\Debug\net5.0\TesteAVetor.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exemplos e testes\TesteAVetor\TesteAVetor\obj\Debug\net5.0\TesteAVetor.genruntimeconfig.cache
