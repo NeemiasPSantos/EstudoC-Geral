@@ -1,0 +1,15 @@
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\bin\Debug\net6.0\ExerException.exe
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\bin\Debug\net6.0\ExerException.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\bin\Debug\net6.0\ExerException.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\bin\Debug\net6.0\ExerException.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\bin\Debug\net6.0\ExerException.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\obj\Debug\net6.0\ExerException.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\obj\Debug\net6.0\ExerException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\obj\Debug\net6.0\ExerException.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\obj\Debug\net6.0\ExerException.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\obj\Debug\net6.0\ExerException.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\obj\Debug\net6.0\ExerException.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\obj\Debug\net6.0\refint\ExerException.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\obj\Debug\net6.0\ExerException.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\obj\Debug\net6.0\ExerException.genruntimeconfig.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerException\ExerException\obj\Debug\net6.0\ref\ExerException.dll
