@@ -1,4 +1,6 @@
-﻿namespace AulaException.Entities
+﻿using AulaException.Entities.Exception;
+
+namespace AulaException.Entities
 {
     internal class Reservation
     {
@@ -12,6 +14,10 @@
 
         public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+            if (CheckOut <= CheckIn)
+            {
+                throw new DomainException("Check-out date must be check-in date");
+            }
             RoomNumber = roomNumber;
             CheckIn = checkIn;
             CheckOut = checkOut;
@@ -25,6 +31,15 @@
 
         public void UpdateDates(DateTime checkIn, DateTime checkOut)
         {
+            DateTime now = DateTime.Now;
+            if (CheckIn < now || CheckOut < now)
+            {
+                throw new DomainException ("Reservation dates for update must be future dates");
+            }
+            if (CheckOut <= CheckIn)
+            {
+                throw new DomainException("Check-out date must be check-in date");
+            }
             CheckIn = checkIn;
             CheckOut = checkOut;
         }

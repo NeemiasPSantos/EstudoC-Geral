@@ -1,0 +1,15 @@
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\bin\Debug\net6.0\CourseF.exe
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\bin\Debug\net6.0\CourseF.deps.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\bin\Debug\net6.0\CourseF.runtimeconfig.json
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\bin\Debug\net6.0\CourseF.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\bin\Debug\net6.0\CourseF.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net6.0\CourseF.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net6.0\CourseF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net6.0\CourseF.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net6.0\CourseF.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net6.0\CourseF.csproj.CoreCompileInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net6.0\CourseF.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net6.0\refint\CourseF.dll
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net6.0\CourseF.pdb
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net6.0\CourseF.genruntimeconfig.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net6.0\ref\CourseF.dll

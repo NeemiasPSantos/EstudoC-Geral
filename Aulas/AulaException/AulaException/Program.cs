@@ -1,4 +1,5 @@
 ﻿using AulaException.Entities;
+using AulaException.Entities.Exception;
 
 namespace AulaException
 {
@@ -6,20 +7,16 @@ namespace AulaException
     {
         static void Main(string[] args)
         {
-            Console.Write("Room number: ");
-            int number = int.Parse(Console.ReadLine());
-            Console.Write("Check-in date (DD/MM/YYYY): ");
-            DateTime checkIn = DateTime.Parse(Console.ReadLine());
-            Console.Write("Check-out date (DD/MM/YYYY): ");
-            DateTime checkOut = DateTime.Parse(Console.ReadLine());
-
-            if (checkOut <= checkIn)
+            try
             {
-                Console.WriteLine("Error  in reservation: Check-out date must be after check-in date");
-            }
+                Console.Write("Room number: ");
+                int number = int.Parse(Console.ReadLine());
+                Console.Write("Check-in date (DD/MM/YYYY): ");
+                DateTime checkIn = DateTime.Parse(Console.ReadLine());
+                Console.Write("Check-out date (DD/MM/YYYY): ");
+                DateTime checkOut = DateTime.Parse(Console.ReadLine());
 
-            else
-            {
+
                 Reservation reservation = new Reservation(number, checkIn, checkOut);
 
                 Console.WriteLine($"Reservation: {reservation}");
@@ -33,23 +30,11 @@ namespace AulaException
                 checkIn = DateTime.Parse(Console.ReadLine());
                 Console.Write("Check-out date (DD/MM/YYYY): ");
                 checkOut = DateTime.Parse(Console.ReadLine());
-
-                DateTime now = DateTime.Now;
-
-                if (checkIn < now || checkOut < now)
-                {
-                    Console.WriteLine("Error in reservation: Reservation dates for update must be future dates");
-                }
-                else if (checkOut <= checkIn)
-                {
-                    Console.WriteLine("Error  in reservation: Check-out date must be after check-in date");
-                }
-                else
-                {
-                    reservation.UpdateDates(checkIn, checkOut);
-
-                    Console.WriteLine($"Reservation: {reservation}");
-                }
+            }
+            catch (DomainException error)
+            {
+                Console.WriteLine("An error ocurred: ");
+                Console.WriteLine(error.Message);
             }
         }
     }

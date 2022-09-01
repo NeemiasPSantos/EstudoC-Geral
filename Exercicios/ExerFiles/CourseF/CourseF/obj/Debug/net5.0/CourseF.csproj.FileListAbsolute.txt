@@ -1,0 +1,5 @@
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net5.0\CourseF.csproj.AssemblyReference.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net5.0\CourseF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net5.0\CourseF.AssemblyInfoInputs.cache
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net5.0\CourseF.AssemblyInfo.cs
+C:\Users\Neemi\Desktop\Programação\C#\Exercicios\ExerFiles\CourseF\CourseF\obj\Debug\net5.0\CourseF.csproj.CoreCompileInputs.cache
